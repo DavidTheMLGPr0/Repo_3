@@ -1,0 +1,16 @@
+Pe planeta Marte anul marțian durează x zile marțiene, iar o zi marțiană durează y ore. În fiecare oră, marțianului Iggle îi crește o antenă. După cât timp va avea Iggle n antene?
+
+Programul citește de la tastatură numerele naturale x y n și va afișa pe ecran trei numere naturale: a, z, h, pe rânduri diferite, reprezentând numărul de ani, zile și ore după care Iggle va avea n antene.
+
+Restricții și precizări :
+
+1 ≤ x , y ≤ 1.000
+1 ≤ n ≤ 1.000.000.000
+
+Exemplu : 
+
+Pentru 5 3 100, se va afișa :
+
+6
+3
+1
